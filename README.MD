@@ -6,18 +6,11 @@
 </p>
 
 <p align="center">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
+    Preview do Podcast
 </p>
 
 <div align="center">
-    <audio src="output/podcast_edited.MP3" controls title="Podcast editado"></audio>
+    <audio src="./src/output/podcast_edited.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
